@@ -1,5 +1,5 @@
-site_name: IntricateDocs
-site_url: https://intrynzic.github.io/IntricateDocs/
+site_name: "Intrynzic Software: Internal Documentation"
+site_url: https://intrynzic.github.io/internal-docs/
 
 theme:
   name: material
