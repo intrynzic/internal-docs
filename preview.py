@@ -6,14 +6,14 @@ import sys
 def preview_docs():
     PORT = 8080
     print("""
-      starting server . . . 
-      
+      starting server . . .
+
       Ctrl+C to stop\n
       """)
-    
+
     time.sleep(1.5)
-    webbrowser.open(f"http://localhost:{PORT}/IntricateDocs/")
-    
+    webbrowser.open(f"http://localhost:{PORT}/internal-docs/")
+
     try:
         subprocess.run([sys.executable, "-m", "mkdocs", "serve", "--dev-addr", f"127.0.0.1:{PORT}", "--livereload"])
     except KeyboardInterrupt:
