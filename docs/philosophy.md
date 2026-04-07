@@ -104,7 +104,7 @@ When making engineering or architectural decisions, consider:
 
 ## Continuous Improvement
 
-Intricate Dev Team's standards are updated as our needs evolve alongside our projects and their requirements.  
+Intrynzic's standards are updated as our needs evolve alongside our projects and their requirements.  
 Suggestions for changes are welcome and should be proposed appropriately and discussed collaboratively.
 
 ---

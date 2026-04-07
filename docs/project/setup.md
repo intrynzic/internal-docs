@@ -1,6 +1,6 @@
 # Setup
 
-This section outlines how to setup Intricate after cloning the repository.
+This section outlines how to setup the Intricate Engine after cloning the repository.
 
 ---
 

@@ -1,6 +1,6 @@
 # IDE Requirements
 
-This section specifies the *Integrated Development Environment* (IDE) requirements for development on Intricate.
+This section specifies the *Integrated Development Environment* (IDE) requirements for development on Intricate Engine.
 
 ---
 

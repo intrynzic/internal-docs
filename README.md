@@ -1,6 +1,6 @@
-# IntricateDocs
+# Intrynzic Software's Internal Documentation
 
-This repo defines all the philosophies, guidelines and standards we follow at *Intricate Dev Team* for producing software.
+This repo defines all the philosophies, guidelines and standards we follow at *Intrynzic* for producing software.
 
 ---
 

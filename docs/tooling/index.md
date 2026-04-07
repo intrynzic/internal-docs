@@ -1,6 +1,6 @@
 # Tooling
 
-This section outlines all the various tools written for and used in Intricate.
+This section outlines all the various tools written for and used in the Intricate Engine.
 
 ---
 
