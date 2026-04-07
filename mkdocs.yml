@@ -1,5 +1,5 @@
 site_name: IntricateDocs
-site_url: https://intricate-dev-team.github.io/IntricateDocs/
+site_url: https://intrynzic.github.io/IntricateDocs/
 
 theme:
   name: material
@@ -44,7 +44,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/Intricate-Dev-Team
+      link: https://github.com/intrynzic
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -83,4 +83,4 @@ nav:
     - Bindings Generator: tooling/bindings-generator.md
 
 copyright: |
-  &copy; 2026-present <a href="https://github.com/Intricate-Dev-Team" target="_blank" rel="noopener">Intricate Dev Team</a>
+  &copy; 2026-present <a href="https://github.com/intrynzic" target="_blank" rel="noopener">Intrynzic Software</a>
