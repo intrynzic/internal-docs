@@ -1,6 +1,6 @@
 # System Requirements
 
-This document outlines the minimum and recommended system specifications required to build and run Intricate.
+This document outlines the minimum and recommended system specifications required to build and run Intricate Engine.
 
 ---
 
