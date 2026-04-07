@@ -1,6 +1,6 @@
 # Build Configurations
 
-This section lists all of Intricate's build configurations and their intended purposes.
+This section lists all of Intricate Engine's build configurations and their intended purposes.
 
 ---
 
